@@ -1,0 +1,21 @@
+.serviceForm {
+    display: flex;
+    flex-direction: column;
+}
+
+.field {
+    display: flex;
+    flex-direction: column;
+}
+
+.button {
+    background-color: rgb(91, 141, 216);
+    border-radius: 10px;
+    font-size: 20px;
+    border: none;
+    max-width: 250px;
+    color: white;
+    margin-top: 30px;
+    padding: 20px;
+    text-align: center; 
+}
